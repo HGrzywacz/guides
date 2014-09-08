@@ -4,7 +4,7 @@ Install node packages with npm globally without sudo
 1. Create a directory for packages:
 
 ```sh
-mkdir "~/.npm-packages"
+mkdir ~/.npm-packages
 ```
 
 2. add this to `.bashrc`
